@@ -41,16 +41,22 @@
   <remove-project name="device/moto/shamu" />
   <remove-project name="device/moto/shamu-kernel" />
 
+  <remove-project name="platform/external/aac" />
   <remove-project name="platform/external/clang" />
+  <remove-project name="platform/external/dnsmasq" />
   <remove-project name="platform/external/doclava" />
   <remove-project name="platform/external/e2fsprogs" />
   <remove-project name="platform/external/f2fs-tools" />
   <remove-project name="platform/external/flac" />
   <remove-project name="platform/external/guava" />
   <remove-project name="platform/external/jhead" />
+  <remove-project name="platform/external/libavc" />
   <remove-project name="platform/external/libexif" />
+  <remove-project name="platform/external/libhevc" />
+  <remove-project name="platform/external/libmpeg2" />
   <remove-project name="platform/external/libnfc-nci" />
   <remove-project name="platform/external/libpng" />
+  <remove-project name="platform/external/libvpx" />
   <remove-project name="platform/external/libxml2" />
   <remove-project name="platform/external/llvm" />
   <remove-project name="platform/external/lz4" />
@@ -58,6 +64,8 @@
   <remove-project name="platform/external/tinyalsa" />
   <remove-project name="platform/external/tinycompress" />
   <remove-project name="platform/external/toybox" />
+  <remove-project name="platform/external/tremolo" />
+  <remove-project name="platform/external/wpa_supplicant_8" />
 
   <remove-project name="platform/frameworks/av" />
   <remove-project name="platform/frameworks/base" />
@@ -136,6 +144,7 @@
 
   <remove-project name="platform/platform_testing" />
 
+  <remove-project name="platform/system/bt" />
   <remove-project name="platform/system/core" />
   <remove-project name="platform/system/extras" />
   <remove-project name="platform/system/media" />
